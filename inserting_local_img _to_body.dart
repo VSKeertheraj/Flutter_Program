@@ -11,8 +11,7 @@ void main() {
         ), //AppBar
         body:const Center(
           child:Image(
-          image:
-          AssetImage('images/geek.jpg')),
+          image:AssetImage('images/geek.jpg')),
         ), //Body Center
       backgroundColor: Colors.pink[200]
         ), //Scaffold
