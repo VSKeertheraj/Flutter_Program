@@ -22,6 +22,7 @@ class MyWidget extends StatelessWidget {
           width:200.0,
           color:Colors.amberAccent,
           alignment:Alignment.center,
+          margin:const EdgeInsets.all(20.0),
           padding:const EdgeInsets.all(20.0),
           child:Text('Hello'),
         ),
